@@ -1,0 +1,18 @@
+.oldStyle {
+    text-decoration: line-through;
+}
+
+.newStyle {
+    font-weight: 900;
+}
+
+.style {
+    background-color: #e0c367;
+    height: 31px;
+    width: 200px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
